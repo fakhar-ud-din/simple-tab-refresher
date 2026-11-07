@@ -1,0 +1,32 @@
+Tab Refresh reloads the current tab on a timer you choose. Set the delay in seconds, press Start, and the tab refreshes by itself until you press Stop.
+
+It is small, simple, and private. No sign up, no settings pages, no tracking.
+
+HOW TO USE
+1. Open the tab you want to refresh.
+2. Click the Tab Refresh icon in the toolbar.
+3. Type the delay in seconds.
+4. Press Start.
+5. Press Stop when you are done.
+
+FEATURES
+• Any delay, from 1 second up to hours
+• Live countdown to the next refresh, with a progress bar
+• Each tab runs on its own timer, so you can refresh many tabs at different speeds
+• Keeps running when the popup is closed
+• Stops by itself when you close the tab
+• Clean, simple design
+
+GREAT FOR
+• Watching job boards for new listings
+• Keeping dashboards and reports up to date
+• Checking for new orders, tickets, or messages
+• Following live scores, prices, or stock pages
+• Waiting for a page or item to become available
+
+PRIVACY
+Tab Refresh does not read your pages, does not collect any data, and never sends anything over the internet. It only remembers which tabs are refreshing, and that list is cleared when you close the browser.
+
+PERMISSIONS
+• Alarms: to time refreshes of 30 seconds or more in the background.
+• Storage: to remember which tabs are refreshing during your browser session.
