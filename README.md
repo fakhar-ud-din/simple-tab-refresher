@@ -8,6 +8,10 @@
 
 ![Countdown](store/screenshot-1-countdown.png)
 
+
+## Chrome Store
+Link: https://chromewebstore.google.com/detail/tab-refresh/ndffcnapomloepgfnafjbmfipimllccl
+
 ## Features
 
 - Any delay, from 1 second up
